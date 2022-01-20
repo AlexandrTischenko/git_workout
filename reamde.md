@@ -9,3 +9,5 @@ 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
 `git cherry -v  <branch> | wc -l` - кол-во добавленных коммитов
 
 
+`git commit --amend -m "Новое название"` - переименовать последний коммит
+`git commit --amend` - дописать последний коммит
