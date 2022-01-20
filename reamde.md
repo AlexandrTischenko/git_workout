@@ -11,3 +11,4 @@ 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
 
 `git commit --amend -m "Новое название"` - переименовать последний коммит
 `git commit --amend` - дописать последний коммит
+fg - вернуться в интерактивный ребейз 
