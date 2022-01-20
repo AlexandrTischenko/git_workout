@@ -12,3 +12,7 @@ ul {
     padding: 0;
     margin-left: 15px;
 }
+
+li {
+    display: none;
+}
